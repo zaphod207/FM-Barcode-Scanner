@@ -1,0 +1,40 @@
+body {
+    background-color: #D6E2F0;
+    margin: 0;
+    font-family: 'Outfit', sans-serif;
+}
+
+h2 {
+    color: #1F3251;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+p {
+    font-size: 15px;
+    color: #7B879D;
+    margin-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h2, p {
+    text-align: center;
+    margin-top:0;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    margin: 100px auto auto auto;
+    background-color: white;
+    border-radius: 5%;
+
+}
+
+img {
+    border-radius: 10%;
+    padding: 30px;
+}
